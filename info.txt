@@ -1,0 +1,1 @@
+[2023. 03. 11. 19:28:35] [ERROR] Detected NodeJS Version (v18.15.0) but expected v16.6+. Please Upgrade.
